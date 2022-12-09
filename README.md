@@ -6,5 +6,5 @@ This is the final version of TSWD portfolio It includes the following visualizat
 1. [King County Covid spread](https://ribarrag.github.io/portfolio_TSWD/KingCounty_covid.html)
 2. [Trust in Media Outlets](https://ribarrag.github.io/portfolio_TSWD/Trust_Media.html)
 3. [Government Spending in OECD](https://ribarrag.github.io/portfolio_TSWD/Govt_spending.html)
-3. 
-4. 
+4. [Critique of a COngressional Report graph](https://ribarrag.github.io/portfolio_TSWD/Critique_bydesign.html)
+
