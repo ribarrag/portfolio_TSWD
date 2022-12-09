@@ -25,7 +25,7 @@ I don't think it is a terribly bad designed graphed: actually, it presents inter
 From my critique, I crafted the following graph, which I then showed to 2 separate participants.
 
 <div style="text-align: center;">
-<img src="Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="600" 
+<img src="portfolio/Draft_graph.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="600" 
      height="720" class = "center">
 </div>
 
@@ -71,6 +71,6 @@ I would not consider the 2019 observation for the average of inflation, as it is
 The final version is a second round of adjustments, that took into account some of the comments gathered from the two participants:
 
 <div style="text-align: center;">
-<img src="Final_graph_hw3.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
+<img src="portfolio/Final_graph_hw3.jpg" alt="Draft of modified graph with inflation data in the U.S. from 2019 to 2022" width="768" 
      height="600">
 </div>
