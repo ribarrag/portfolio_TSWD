@@ -7,7 +7,11 @@ It consists of a number of graphs and graph critiques developed during a seven w
 The final project includes three reports that consist on: 
 1. Part I: pitch for final presentation, including datasets.
 2. Part II: narrative, sketches, wireframes, storyboards and moodboards.
-3. Part III: final deliverable and changes from Part II. 
+3. Part III: final deliverable and changes from Part II.  
+
+
+---
+## Content
 
 1. [King County Covid spread](https://ribarrag.github.io/portfolio_TSWD/KingCounty_covid.html)
 2. [Trust in Media Outlets](https://ribarrag.github.io/portfolio_TSWD/Trust_Media.html)
