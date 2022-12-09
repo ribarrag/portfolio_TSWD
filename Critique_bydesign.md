@@ -4,7 +4,7 @@ I have selected the following graph to critique. It appeared in a report from th
 The original can be found in [this report](https://www.cbo.gov/system/files/2022-09/58426-Inflation.pdf) (p. 6).
 
 <div style="text-align: center;">
-<img src="Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022">
+<img src="/portfolio/Inflation_graph.jpg" alt="Graph with inflation data in the U.S. from 2019 to 2022">
 </div>
 
 I don't think it is a terribly bad designed graphed: actually, it presents interesting, truthful and complete data. However, ...  
